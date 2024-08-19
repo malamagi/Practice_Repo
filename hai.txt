@@ -1,0 +1,15 @@
+ Volume in drive G has no label.
+ Volume Serial Number is 8E9B-CBA8
+
+ Directory of G:\Old data\24 GB\git practice
+
+19-08-2024  20:13    <DIR>          .
+19-08-2024  20:13    <DIR>          ..
+19-08-2024  20:12    <DIR>          .git
+19-08-2024  20:13                 0 hai.txt
+18-08-2024  14:56                 3 index.html
+19-08-2024  19:51                 0 read.txt
+19-08-2024  20:05               529 read2.txt
+18-08-2024  14:55                12 text1.txt
+               5 File(s)            544 bytes
+               3 Dir(s)  384,122,609,664 bytes free
